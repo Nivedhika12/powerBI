@@ -3,6 +3,7 @@ Domain:power BI
 Id:CT4PB6014
 Span:AUGUST 15th, to SEPTEMBER 15th, 2024
 Company: CODTECH IT Solutions 
+Mentor: Muzammil ahmed
 How it works:
 This dashboard illustrates flight patterns, passenger trends, revenue earned, fuel cost, distance travelled, hours travelled, weekday travelers, weekend travelers and Revenue insights. easy-to-understand reports for various airports and airlines. This dashboard is drastically altering the insights of airport analysis by allowing users to analyze and understand data in new ways.
 Benefits of wire framing:
